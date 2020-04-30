@@ -1,0 +1,25 @@
+.nav-item{
+	text-align: center;
+	border-bottom: solid 1px;
+	background-color: grey;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.navbar-nav{
+	width: 100%;
+	margin: 0;
+}
+.our-menu{
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.mycontent {
+	background-color: #b79494;
+	width: 100%;
+	margin: 0;
+}
+
+.col-xs-3 {
+	margin: 5px;
+}
